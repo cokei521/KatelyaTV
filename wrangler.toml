@@ -37,8 +37,8 @@ name = "katelyatv-preview"
 # 预览环境 D1 数据库配置
 [[env.preview.d1_databases]]
 binding = "DB"
-database_name = "katelyatv-db"
-database_id = "6d580637-1f87-4ddf-8b4d-3d97254b4c33"
+database_name = "katelyatv"
+database_id = "f2b8d641-3f52-46c4-92a4-ef1a721f4356"
 
 # 预览环境变量
 [env.preview.vars]
